@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CesarEncrypt</string>
+    <string name="hint">Coso a encriptar</string>
+</resources>
